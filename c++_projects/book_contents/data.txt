@@ -1,0 +1,22 @@
+#CSV-fields
+#<ID>;<Full name>;<Length>;<Parent chapter (ID)>
+
+Introduction;Introduction to the Basic Concepts;2;
+Definitions;Definitions;5;Introduction
+Basics;The Basics;3;Introduction
+Fundamentals;Fundamentals of Software Change;1;
+Software Change;Software Change;2;Fundamentals
+Classification;Classification of Changes;2;Software Change
+Corrective;Corrective Change;2;Classification
+Adaptive;Adaptive Change;2;Classification
+Perfective;Perfective Change;4;Classification
+Pretentive;Pretentive Change;3;Classification
+Importance;The Importance of Categorizing Software Changes;6;Software Change
+Lehman;Lehmans Laws;3;Fundamentals
+Program Understanding;Program Understanding;3;
+Factors;Factors That Affect Understanding;2;Program Understanding
+Naming;Naming Style;3;Factors
+Comments;Comments;2;Factors
+Decomposition;Decomposition Mechanism;2;Factors
+Documentation;Documentation;4;Program Understanding
+Summary;Summary;3;

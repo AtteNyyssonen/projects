@@ -1,0 +1,17 @@
+Happoradio;2022-06-04;Riihimäki;Riutanharju
+Happoradio;2022-06-10;Lappeenranta;Kulttuuritila Nuijamies
+Happoradio;2022-07-08;Tampere;Satamaravintola Kaisla
+Elastinen;2022-05-20;Riihimäki;Riutanharju
+Elastinen;2022-06-03;Vantaa;Iskelmä Myyrmäki
+Elastinen;2022-06-10;Kaarina;Saaristo Open
+Elastinen;2022-07-01;Imatra;Power Festival
+Marion Rung;2022-05-20;Ylöjärvi;Toivolan lava
+Marion Rung;2022-10-22;Salo;Teatteri Provinssi
+Marion Rung;2022-10-08;Lahti;Lahden konserttitalo
+Finlanders;2022-05-21;Riihimäki;Riutanharju
+Finlanders;2022-06-03;Lempäälä;Nurmen lava
+Finlanders;2022-06-17;Kangasala;Kisaranta
+Jukka Poika;2022-06-04;Hamina;Wanha Työski
+Jukka Poika;2022-04-23;Joensuu;Kimmel
+Kyösti Mäkimattila;2022-06-09;Lappeenranta;Satamatori
+Kyösti Mäkimattila;2022-06-22;Kangasala;Kisaranta
